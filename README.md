@@ -80,6 +80,7 @@ Optimize subscription plans
 Reduce churn rate through data-driven decisions
 
 Dashboard Preview
+![Dashboard](customer_churn.png)
 
 
 
